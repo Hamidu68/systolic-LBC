@@ -1,1 +1,1 @@
-vivado_hls -f script.tcl
+python dse.py
